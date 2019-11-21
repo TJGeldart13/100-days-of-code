@@ -192,9 +192,17 @@
 
 **Today's Progress**: Today, I finished working on the web application to conduct coding tests.
 
-**Thoughts:** Eh.
+**Thoughts:** (Written Nov. 21st, 2019) I am proud of today's work. I was approached by 2 different Medium publications requesting to publish the article. I decided to go with Better Programming which claims to have over 140,000 readers. The articles has earned more likes, reads and new followers for me in a shorter period than all of the others.
 
 **Link to code:** [Coding Test](js/CodeTest)
 
 **Link to Medium article:** [How to create a web app for coding tests](https://medium.com/@ehioroboevans/how-to-create-a-web-app-for-coding-tests-750ef97bf1e3?sk=8f25961531bafc8dc62a505b304cc41a)
+
+### Day 24: November 21, 2019
+
+**Today's Progress**: Today, I began working on a project tracking intro component with HTML and Sass (Syntactically Awesome Style Sheets). This is an effort by me to delve deeper into the world of front end design.
+
+**Thoughts:** I am happy to finally be doing this. I have stayed away from design for too long. I wish to combine my efforts here with React.js and Node.js in future to form my web development stack.
+
+**Link to code:** [Project Tracking](sass/project-tracking-intro-component)
 
